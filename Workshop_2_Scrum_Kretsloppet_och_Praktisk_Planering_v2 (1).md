@@ -5,7 +5,7 @@ Denna workshop fokuserar på Scrums tre artefakter, deras tillhörande åtagande
 
 ---
 
-## 📚 Del 1: Föreläsningsrubriker (Modul 2: Artefakter, Åtaganden & Händelser)
+## 📚 Del 1:  Artefakter, Åtaganden & Händelser
 
 1. **De 3 Artefakterna & deras Åtaganden (Commitments)**
    * **Product Backlog** ➔ *Product Goal* (Långsiktigt mål som sätts av Produktägaren).
@@ -22,10 +22,10 @@ Denna workshop fokuserar på Scrums tre artefakter, deras tillhörande åtagande
 
 ---
 
-## 🛠️ Del 2: Distansövningar för Grupper (2–5 personer)
+## 🛠️ Del 2: Distansövningar för Grupper 2–5 personer
 
 ### Övning 2A: Backlog Refinement, Sprint Goal & Estimering (40 min)
-* **Verktyg:** Digital tavla (Miro / GitHub Projects) + Planning Poker-app (t.ex. *planningpoker.com* eller *pointingpoker.com*).
+* **Verktyg:** Digital tavla (Miro / GitHub Projects / motsvarande) + Planning Poker-app (t.ex. *planningpoker.com* eller *pointingpoker.com*).
 * **Viktig Scrum-princip:** Kursledaren/PO tillhandahåller endast **Product Goal** och användarberättelser (*User Stories*). **Teamet självt ansvarar för att formulera sitt eget Sprint Goal** under sin planering utifrån vad de väljer att ta sig an!
 
 #### 🚜 Fiktivt Produktscenario: Fleet Management (Entreprenadmaskiner)
