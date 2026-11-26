@@ -5,7 +5,7 @@ Denna workshop täcker grundfilosofin i Scrum, rollfördelningen och de fem Scru
 
 ---
 
-## 📚 Del 1: Föreläsningsrubriker (Modul 1: Grunderna, Värderingarna & Rollerna)
+## 📚 Del 1: Grunderna, Värderingarna & Rollerna
 
 1. **Introduktion till Agilitet & Scrum**
    * Varför Scrum? Komplex problemlösning vs. förutsägbar planering.
