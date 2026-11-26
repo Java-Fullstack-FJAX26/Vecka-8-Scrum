@@ -20,7 +20,7 @@ Denna workshop täcker grundfilosofin i Scrum, rollfördelningen och de fem Scru
 
 ---
 
-## 🛠️ Del 2: Distansövningar för Grupper (5–6 personer)
+## 🛠️ Del 2: Distansövningar för Grupper (2-5 personer)
 
 ### Övning 1A: Rolldilemman & Värderingar i Distansmiljö (30 min)
 * **Verktyg:** Breakout rooms & digital whiteboard (Miro / FigJam / Slack).
