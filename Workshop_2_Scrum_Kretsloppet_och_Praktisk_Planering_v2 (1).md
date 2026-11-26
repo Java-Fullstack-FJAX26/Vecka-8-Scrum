@@ -29,6 +29,7 @@ Denna workshop fokuserar på Scrums tre artefakter, deras tillhörande åtagande
 * **Viktig Scrum-princip:** Kursledaren/PO tillhandahåller endast **Product Goal** och användarberättelser (*User Stories*). **Teamet självt ansvarar för att formulera sitt eget Sprint Goal** under sin planering utifrån vad de väljer att ta sig an!
 
 #### 🚜 Fiktivt Produktscenario: Fleet Management (Entreprenadmaskiner)
+* **Använd den fork av[FleetManagmentrepo](https://github.com/Java-Fullstack-FJAX26/git-verkstad-pass-4) som ni jobbade med i förra veckan.
 * **Product Goal (Från PO):** *"Skapa en central digital plattform för spårning av maskinparkens driftstatus, förebyggande underhåll och förarallokering med hög driftsäkerhet."*
 
 #### 📋 Product Backlog (User Stories – Beskriver VAD, inte HUR):
